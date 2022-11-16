@@ -37,7 +37,7 @@ version = 0.404
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,kivy,sdl2_ttf,pillow,torch,opencv-python,pyttsx3,matplotlib
+requirements = python3,kivy,sdl2_ttf,pillow,torch,opencv-python,pyttsx3,matplotlib,seaborn,pyyaml,torchvision,tqdm,util,IPython
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
 # requirements.source.kivy = ../../kivy
